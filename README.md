@@ -1,3 +1,5 @@
+mongo_prune_js.js retained from archive.org for my own reference after apparent deletion from unifi KB/forums.
+
 How to. . . . . 
 
 ssh root@192.168.1.1 (udm ip)
@@ -5,9 +7,10 @@ ssh root@192.168.1.1 (udm ip)
 sudo -i
 
 //make the file
+
 nano mongo_prune_js.js
 
-// copy txt from the file mongo_prune_js.js above //
+// copy in txt from the file mongo_prune_js.js above //
 
 //Close and save the file
 
