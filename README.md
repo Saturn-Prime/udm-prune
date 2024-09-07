@@ -1,4 +1,4 @@
-mongo_prune_js.js retained from archive.org for my own reference after apparent deletion from unifi KB/forums.
+mongo_prune_js.js retained from archive.org for my own reference/retention after apparent deletion from unifi KB/forums.
 
 How to. . . . . 
 
