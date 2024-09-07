@@ -10,7 +10,7 @@ sudo -i
 
 nano mongo_prune_js.js
 
-// copy in txt from the file mongo_prune_js.js above //
+//copy in txt from the file mongo_prune_js.js above
 
 //Close and save the file
 
