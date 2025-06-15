@@ -6,9 +6,11 @@ ssh root@192.168.1.1 (udm ip)
 
 sudo -i
 
+cd /tmp
+
 //make the file
 
-nano mongo_prune_js.js
+vi mongo_prune_js.js
 
 //copy in txt from the file mongo_prune_js.js above
 
